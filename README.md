@@ -64,6 +64,6 @@ Mobile version of kitchen interface:
 
 **Note:** 
 
-Link of demo on [youtube](https://youtu.be/X1Puo5LXK74)
+[Youtube video demo](https://youtu.be/X1Puo5LXK74)
 
 The username and password for kitchen: temp 123456.
