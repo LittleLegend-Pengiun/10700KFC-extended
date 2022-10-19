@@ -1,4 +1,4 @@
-# 10700KFC
+# 10700KFC WITH BACKEND
 
 (This is a clone of the original project with backend server add-on)
 
@@ -59,11 +59,9 @@ Mobile version of kitchen interface:
   <br>
 </p>
 
-No framework, no complicated DB. Just pure HTML, JS + JQuery, Firestore.
+*No framework, no complicated DB. Just pure HTML, JS + JQuery, Firestore, and Go.*
 
 **Note:** 
-
-The real source code is in the ***original_source_code*** folder.
 
 Link of demo on [youtube](https://youtu.be/X1Puo5LXK74)
 
