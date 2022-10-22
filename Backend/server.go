@@ -7,7 +7,7 @@ import (
 	"strconv"
 )
 
-const Port = 3000
+const Port = 6969
 const rootPath = "../Frontend/"
 
 func kitchenHandler(w http.ResponseWriter, r *http.Request) {
